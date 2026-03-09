@@ -1,0 +1,229 @@
+{
+    "landing": {
+        "title": "Nikhil Swami",
+        "createdAt": "2024",
+        "projectTitle": "Software Developer  •  ML Engineer",
+        "projectDescription": "MS CS @ ASU · Building things that just work — from mobile apps to intelligent systems.",
+        "startPrompt": "Explore my interactive portfolio below",
+        "creatorTitle": "Let's Connect",
+        "creatorName": "nswami1@asu.edu"
+    },
+    "about": {
+        "tagline": "I turn caffeine into beautiful, bug-free apps.",
+        "descriptionTitle": "About me",
+        "description": "MS CS student at ASU (May 2026), shipping things that actually work. I've built mobile apps with millions of downloads, backend systems that stay up, and I'm now diving deep into generative AI - LLMs, RAG, and agentic systems.",
+        "skillsTitle": "What do I know?",
+        "skillGroups": [
+            {
+                "category": "Languages",
+                "skills": [
+                    "Python",
+                    "Dart",
+                    "JavaScript"
+                ]
+            },
+            {
+                "category": "Mobile & Web",
+                "skills": [
+                    "Flutter",
+                    "iOS",
+                    "Android",
+                    "React",
+                    "Node.js"
+                ]
+            },
+            {
+                "category": "AI & ML",
+                "skills": [
+                    "PyTorch",
+                    "NLP",
+                    "AI Agents",
+                    "Model Fine-Tuning",
+                    "Hugging Face"
+                ]
+            },
+            {
+                "category": "Backend",
+                "skills": [
+                    "Go",
+                    "REST",
+                    "gRPC",
+                    "MongoDB",
+                    "Firebase"
+                ]
+            },
+            {
+                "category": "Cloud",
+                "skills": [
+                    "AWS",
+                    "GCP",
+                    "Azure",
+                    "Docker",
+                    "Kubernetes"
+                ]
+            }
+        ],
+        "skills": [
+            "Python",
+            "Go",
+            "Dart",
+            "Flutter",
+            "PyTorch",
+            "LangChain",
+            "LangGraph",
+            "React",
+            "Node.js",
+            "Docker",
+            "Kubernetes",
+            "GitHub Actions",
+            "PostgreSQL",
+            "Firebase",
+            "REST",
+            "gRPC",
+            "AWS",
+            "GCP",
+            "Azure",
+            "RAG Pipelines",
+            "Agentic AI",
+            "Prompt Engineering"
+        ],
+        "otherSkills": [
+            "Guitar",
+            "Stock Market",
+            "Magic",
+            "Singing",
+            "Song writing"
+        ],
+        "experienceTitle": "Experience",
+        "experienceSummary": "3 companies, 2+ years, millions of users and still just getting started.",
+        "profileImage": "assets/images/nikhil_profile.jpeg"
+    },
+    "socialLinks": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/nikhilswami11/",
+            "iconAsset": "assets/icons/linkedin_logo.png",
+            "hoverColorHex": "#0077B5"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/it_is_nikhil/",
+            "iconAsset": "assets/icons/instagram_logo.png",
+            "hoverColorHex": "#E1306C"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/nikhilSwami11/",
+            "iconAsset": "assets/icons/github_logo.png",
+            "hoverColorHex": "#333333"
+        }
+    ],
+    "experiences": [
+        {
+            "companyName": "Onsite Teams",
+            "siteUrl": "onsiteteams.com",
+            "role": "Software Developer",
+            "location": "New Delhi",
+            "duration": "Feb 2024 – Aug 2024",
+            "logoAsset": "assets/icons/onsite_logo.jpeg",
+            "summary": "Contributed to a high-growth SaaS collaboration platform, architecting the transition from legacy systems to a high-performance Flutter & Go microservices stack for 500K+ users.",
+            "appName": "Onsite",
+            "appDownloads": "(500K+)",
+            "backgroundColorHex": "#FFEBEE",
+            "detailBannerData": [
+                {
+                    "title": "Go",
+                    "subtitle": "Built and maintained Go microservices with gRPC and REST APIs."
+                },
+                {
+                    "title": "Flutter",
+                    "subtitle": "Led end-to-end migration from legacy native app to Flutter + Go stack."
+                },
+                {
+                    "title": "gRPC",
+                    "subtitle": "Enabled real-time communication across distributed system layers."
+                },
+                {
+                    "title": "Clean Architecture",
+                    "subtitle": "Applied MVVM + TDD — reduced production defects by 32%."
+                }
+            ]
+        },
+        {
+            "companyName": "NowFloats (Reliance)",
+            "siteUrl": "nowfloats.com",
+            "role": "Software Developer",
+            "location": "Hyderabad",
+            "duration": "Jan 2023 – Feb 2024",
+            "logoAsset": "assets/icons/nf_logo.png",
+            "summary": "Engineered scalable backend and mobile solutions for Zadinga (a Reliance-backed SaaS), enabling digital transformation for thousands of retail businesses via Azure-hosted .NET microservices.",
+            "appName": "Zadinga",
+            "appDownloads": "(50K+)",
+            "backgroundColorHex": "#FFF9C4",
+            "detailBannerData": [
+                {
+                    "title": "Flutter",
+                    "subtitle": "Cross-platform mobile app development for Android, iOS and web."
+                },
+                {
+                    "title": "Azure",
+                    "subtitle": "Cloud infrastructure and deployments on Microsoft Azure."
+                },
+                {
+                    "title": ".NET Core",
+                    "subtitle": "Engineered scalable SaaS back-end services with 99.9% uptime."
+                },
+                {
+                    "title": "CI/CD",
+                    "subtitle": "Automated pipelines with GitHub Actions — cut deployment cycles by 14%."
+                }
+            ]
+        },
+        {
+            "companyName": "Fraazo",
+            "siteUrl": "fraazo.com",
+            "role": "Software Developer",
+            "location": "Mumbai",
+            "duration": "Jan 2022 – Sept 2022",
+            "logoAsset": "assets/icons/fraazo_logo.png",
+            "summary": "Developed core features for a top-tier E-commerce/Quick-Commerce platform, implementing Server-Driven UI to manage real-time updates for over 1 million active users with 99.9% crash-free sessions.",
+            "appName": "Fraazo",
+            "appDownloads": "(1M+)",
+            "backgroundColorHex": "#B9F6CA",
+            "detailBannerData": [
+                {
+                    "title": "Flutter",
+                    "subtitle": "Built Server-Driven UI enabling real-time, release-free UI updates."
+                },
+                {
+                    "title": "Firebase",
+                    "subtitle": "Push notifications, Crashlytics, dynamic links, and A/B testing."
+                },
+                {
+                    "title": "REST APIs",
+                    "subtitle": "Integrated APIs and WebSockets throughout the app."
+                },
+                {
+                    "title": "Performance",
+                    "subtitle": "Eliminated memory leaks — crash-free sessions jumped from 96% to 99%."
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Arizona State University",
+            "degree": "MS in Computer Science",
+            "duration": "2026",
+            "gpa": "3.89",
+            "logoAsset": "assets/icons/asu_logo.jpg"
+        },
+        {
+            "institution": "LNM Institute of Information Technology",
+            "degree": "B.Tech in Computer Science",
+            "duration": "2022",
+            "gpa": "3.14",
+            "logoAsset": ""
+        }
+    ]
+}
